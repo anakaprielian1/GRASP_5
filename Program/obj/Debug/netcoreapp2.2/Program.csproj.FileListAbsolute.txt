@@ -1,0 +1,13 @@
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/bin/Debug/netcoreapp2.2/Program.deps.json
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/bin/Debug/netcoreapp2.2/Program.runtimeconfig.json
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/bin/Debug/netcoreapp2.2/Program.runtimeconfig.dev.json
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/bin/Debug/netcoreapp2.2/Program.dll
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/bin/Debug/netcoreapp2.2/Program.pdb
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/bin/Debug/netcoreapp2.2/Library.dll
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/bin/Debug/netcoreapp2.2/Library.pdb
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/obj/Debug/netcoreapp2.2/Program.csprojAssemblyReference.cache
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/obj/Debug/netcoreapp2.2/Program.AssemblyInfoInputs.cache
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/obj/Debug/netcoreapp2.2/Program.AssemblyInfo.cs
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/obj/Debug/netcoreapp2.2/Program.csproj.CopyComplete
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/obj/Debug/netcoreapp2.2/Program.dll
+/Users/nicolasalliaume/UCU/P2/projects/PII_Full_GRASP_and_SOLID_5_Start/src/Program/obj/Debug/netcoreapp2.2/Program.pdb
